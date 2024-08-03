@@ -1,5 +1,6 @@
 ## Aspiring DevOps Engineer🌟❤️
-<a href="https://app.daily.dev/nifesiajikiola"><img src="https://api.daily.dev/devcards/v2/iC9bPXROUKwJN4Y3yAa8a.png?type=default&r=sj9" width="356" alt="Nifesi Ajikiola's Dev Card"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zeemorayo&theme=neon)](https://git.io/streak-stats)
+
 
 <!--
 **zeemorayo/zeemorayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
