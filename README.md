@@ -6,7 +6,6 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I+am+Nifesi+Ajikiola;Aspiring+DevOps+Engineer;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zeemorayo&theme=neon)](https://git.io/streak-stats)
 <h1 align="center">  
   
 <h3 align="center">Let's connect:</h3>
