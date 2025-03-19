@@ -7,7 +7,6 @@
 </h1>
 
 <h1 align="center">  
-https://camo.githubusercontent.com/657164a3ee31a2d212067f36a18a12fc3ec257efbf2f97e3325cbf49e07714f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7a65656d6f7261796f2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374
   
 <h3 align="center">Let's connect:</h3>
 <p align="center">
@@ -15,5 +14,5 @@ https://camo.githubusercontent.com/657164a3ee31a2d212067f36a18a12fc3ec257efbf2f9
 <a href="https://linkedin.com/in/nifesi-ajikiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nifesi-ajikiola" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemorayo&show_icons=true&locale=en&layout=compact" alt="zeemorayo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemorayo&show_icons=true&locale=en&layout=compact" alt="zeemorayo"/></p>
 
