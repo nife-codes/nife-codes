@@ -17,12 +17,15 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemorayo&show_icons=true&locale=en&layout=compact" alt="zeemorayo"/></p>
 
-<h3 align= "center">🌐 My Tech Stack</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7A41C&center=true&vCenter=true&random=false&width=435&lines=✨+My+Tech+Stack+✨" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </p>
 
  <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zeemorayo&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
@@ -30,11 +33,9 @@
 <p align="center">
   <img src="https://github.com/zeemorayo/zeemorayo/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7A41C&center=true&vCenter=true&random=false&width=435&lines=✨+My+Tech+Stack+✨" alt="Typing SVG" />
-</p>
 
-</p>
+
+
 
 
 
