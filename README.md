@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemorayo&show_icons=true&locale=en&layout=compact" alt="zeemorayo"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeemorayo&exclude_repo=Repo1,Repo2&langs_count=6)"</p>
+
