@@ -15,6 +15,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemorayo&show_icons=true&locale=en&layout=compact" alt="zeemorayo"/></p>
-<p><img align="center" src="(https://img.shields.io/badge/Languages-PowerShell%20%7C%20Shell%20%7C%20Python%20%7C%20JavaScript-blue?style=flat-square)" alt="zeemorayo"/></p>
+<a href="https://img.shields.io/badge/Languages-PowerShell%20%7C%20Shell%20%7C%20Python%20%7C%20JavaScript-blue?style=flat-square" alt="zeemorayo"/></a>
 
 
