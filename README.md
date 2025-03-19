@@ -14,7 +14,8 @@
 <a href="https://linkedin.com/in/nifesi-ajikiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nifesi-ajikiola" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemorayo&show_icons=true&locale=en&layout=compact" alt="zeemorayo"/></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemorayo&show_icons=true&locale=en&layout=compact" alt="zeemorayo"/></p>
 
 <h3 align= "center">🌐 My Tech Stack</h3>
 <p align="center">
