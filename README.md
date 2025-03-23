@@ -7,6 +7,7 @@
 </h1>
 
 <h1 align="center">  
+<h3 align="center"> MY SOCIALS </h3>
   
 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -28,11 +29,11 @@
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
 
+---
+
  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nife-codes&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nife-codes&show_icons=true&locale=en&layout=compact" alt="zeemorayo"/></p>
 
 
 ---
