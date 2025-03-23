@@ -48,16 +48,11 @@
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </p>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nife-codes/nife-codes/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nife-codes/nife-codes/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/nife-codes/nife-codes/output/github-contribution-grid-snake.svg">
-</picture>
-.
+
                     .
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/nife-codes"><img src="https://github-readme-stats.vercel.app/api?username=nife-codes&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="nife-codes's GitHub stats" /></a><a
                       href="http://www.github.com/nife-codes"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
