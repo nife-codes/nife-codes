@@ -51,15 +51,16 @@
 </p>
   <a href="http://www.github.com/nife-codes">
    <img src="https://github-readme-stats.vercel.app/api?username=nife-codes&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="nife-codes's GitHub stats" /></a>
+   <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=nife-codes&theme=tokyonight&background=000000&border=ff69b4&stroke=ff69b4&fire=ff69b4&ring=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+</a>
    <a href="http://www.github.com/nife-codes">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       <a href="https://github.com/nife-codes" align="left">
      <p align="center">
                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nife-codes&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
                    </p>
- <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=nife-codes&theme=tokyonight&background=000000&border=ff69b4&stroke=ff69b4&fire=ff69b4&ring=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
-</a>
+ 
 
     
 
