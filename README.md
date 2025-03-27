@@ -51,9 +51,10 @@
 </p>
   <a href="http://www.github.com/nife-codes">
    <img src="https://github-readme-stats.vercel.app/api?username=nife-codes&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="nife-codes's GitHub stats" /></a>
-   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&theme=radical)](https://git.io/streak-stats)"> 
-   </a>
+ <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&theme=dark-pink">
+</a>
+
    -
                       <a href="https://github.com/nife-codes" align="left">
      <p align="center">
