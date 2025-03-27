@@ -50,16 +50,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
   <a href="http://www.github.com/nife-codes">
-   <img src="https://github-readme-stats.vercel.app/api?username=nife-codes&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="nife-codes's GitHub stats" /></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=nife-codes&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="nife-codes's GitHub stats"/></a>
  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&theme=dark-pink">
 </a>
 
-   -
-                      <a href="https://github.com/nife-codes" align="left">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/top-langs/?username=nife-codes&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"></p>
+                   
      <p align="center">
                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nife-codes&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-                   </p> </a>
+                   </p>
  
 
     
