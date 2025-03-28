@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">  
-<h3 align="center"> MY SOCIALS ✨🌸</h3>
+<h3 align="center"> MY SOCIALS ✨🌸 </h3>
 
 <h1 align="center">  
   
