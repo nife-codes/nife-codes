@@ -54,6 +54,10 @@
  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&theme=dark-pink">
 </a>
+ <img src="(https://komarev.com/ghpvc/?username=nife-codes&color=blue)"
+
+<img src="[(https://streak-stats.demolab.com?user=GaiusNale&theme=dark)](https://git.io/streak-stats)"
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nife-codes&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages">
