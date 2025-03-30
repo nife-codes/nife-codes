@@ -34,35 +34,42 @@
 ---
 ---
 
-    <p align="center">
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nife-codes&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
 </p> 
-
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7A41C&center=true&vCenter=true&random=false&width=435&lines=✨+My+Tech+Stack+✨" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
-  <a href="http://www.github.com/nife-codes">
-   <img src="https://github-readme-stats.vercel.app/api?username=nife-codes&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="nife-codes's GitHub stats"/></a>
- <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&theme=dark-pink">
-</a>
- <img src="(https://komarev.com/ghpvc/?username=nife-codes&color=blue)">
-
-
-<img src="[(https://streak-stats.demolab.com?user=GaiusNale&theme=dark)](https://git.io/streak-stats)"
-
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nife-codes&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages">
+  <a href="http://www.github.com/nife-codes">
+    <img src="https://github-readme-stats.vercel.app/api?username=nife-codes&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="nife-codes's GitHub stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&theme=dark-pink&hide_border=true" alt="GitHub Streak Stats">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nife-codes&color=blue" alt="Profile Views Counter">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nife-codes&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages">
 </p>
 
 
