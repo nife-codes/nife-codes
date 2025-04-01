@@ -60,8 +60,9 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nife-codes&theme=black-ice&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ffffff&sideNums=ec4899&currStreakLabel=ec4899&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats">
+   <img src="https://streak-stats.demolab.com/?user=nife-codes&theme=black-ice&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ffffff&sideNums=ec4899&currStreakLabel=ec4899&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
+
 </p>
 
 <p align="center">
