@@ -31,14 +31,6 @@
                     </picture>
                       </h1>
 ---
----
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nife-codes&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
-</p> 
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7A41C&center=true&vCenter=true&random=false&width=435&lines=✨+My+Tech+Stack+✨" alt="Typing SVG" />
