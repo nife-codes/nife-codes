@@ -56,12 +56,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=nife-codes&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="nife-codes's GitHub stats"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com/?user=nife-codes&theme=black-ice&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ffffff&sideNums=ec4899&currStreakLabel=ec4899&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nife-codes&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages">
