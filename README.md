@@ -2,12 +2,6 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nife-codes&show_icons=true&locale=en&layout=compact&theme=dracula&title_color=ff66b2&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117" 
-    alt="nife-codes"/>
-</p>
-
 # HELLO. I'M NIFE!
 
 - 👀 I’m interested in open source, hackathons, coding, AI/ML, web development, and exploring new technologies.<br>
@@ -28,6 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=nife-codes&theme=pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nife-codes&theme=pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nife-codes&theme=pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![] (https://github-readme-stats.vercel.app/api/top-langs?username=nife-codes&show_icons=true&locale=en&layout=compact&theme=dracula&title_color=ff66b2&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nife-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
