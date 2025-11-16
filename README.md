@@ -8,7 +8,7 @@
     alt="nife-codes"/>
 </p>
 
-# HELLO!!
+# HELLO. I'M NIFE!
 
 - 👀 I’m interested in open source, hackathons, coding, AI/ML, web development, and exploring new technologies.<br>
 - 🌱 I’m currently learning new programming languages and leveling up my skills in web and data projects.<br>
