@@ -21,10 +21,9 @@
 # GitHub Stats:
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nife-codes&theme=rose_pine&hide_border=false" 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nife-codes&theme=candy&hide_border=false" 
     alt="nife-codes"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nife-codes&show_icons=true&locale=en&layout=compact&theme=dracula&title_color=ff66b2&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117" 
