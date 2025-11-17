@@ -22,8 +22,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=nife-codes&theme=pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nife-codes&theme=pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nife-codes&theme=pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nife-codes&theme=pink&hide_border=false&include_all_commits=false&count_private=false" 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nife-codes&theme=pink&hide_border=false" 
     alt="nife-codes"/>
 </p>
 
