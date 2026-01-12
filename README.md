@@ -10,7 +10,7 @@
 - 💬 Ask me about Python, JavaScript, and web development frameworks.<br>
 - 📫 How to reach me: Discord: un0nife | Email: hephzibbahmorayo@gmail.com<br>
 - 😄 Pronouns: She/Her<br>
-- ⚡ Fun fact: I talk about my projects like they’re my children.
+- ⚡ Fun fact: I am going to hackathon my way to Google.
 
 ## My Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a2nd2VSV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/nife-codes) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hephzibbahmorayo@gmail.com)
