@@ -1,7 +1,7 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
-![Nifesi Ajikiola](https://img.shields.io/badge/Nifesi-Ajikiola-yellow)
+![Nifesi Ajikiola](https://img.shields.io/badge/Nifesi-Ajikiola-red)
 # HELLO. I'M NIFE!
 
 - 👀 I’m interested in open source, hackathons, coding, AI/ML, blockchain tech, web development, and exploring new technologies.<br>
