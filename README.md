@@ -20,6 +20,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=nife-codes&theme=rose_pine&hide_border=false" 
     alt="nife-codes"/>
 </p>
+<p style="margin: 10px 0; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nife-codes&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; margin: 10px 0;" />
+  </p>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
