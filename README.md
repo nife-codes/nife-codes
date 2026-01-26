@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning new programming languages and leveling up my skills in web and data projects.<br>
 - 👯 I’m looking to collaborate on open-source projects and exciting web applications.<br>
 - 💬 Ask me about Python, JavaScript, and web development frameworks.<br>
-- 📫 How to reach me: Discord: un0nife | Email: hephzibbahmorayo@gmail.com<br>
+- 📫 How to reach me: Discord: @un0nife | Email: hephzibbahmorayo@gmail.com<br>
 - 😄 Pronouns: She/Her<br>
 - ⚡ Fun fact: I am going to hackathon my way to Google.
 
