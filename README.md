@@ -5,7 +5,7 @@
 # HELLO. I'M NIFE!
 
 - 👀 I’m interested in open source, hackathons, coding, AI/ML, blockchain tech, web development, and exploring new technologies.<br>
-- 🌱 I’m currently learning new programming languages and leveling up my skills in web and data projects.<br>
+- 🌱 I’m currently working on hackathon projects.<br>
 - 👯 I’m looking to collaborate on open-source projects and exciting web applications.<br>
 - 💬 Ask me about Python, JavaScript, and web development frameworks.<br>
 - 📫 How to reach me: Discord: @un0nife | Email: hephzibbahmorayo@gmail.com<br>
