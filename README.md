@@ -12,7 +12,7 @@
 - 😄 Pronouns: She/Her<br>
 - ⚡ Fun fact: I am going to hackathon my way to Google.
 
-## [Portfolio](https://nife-theta.vercel.app)
+## [Click here to view my portfolio](https://nife-theta.vercel.app)
 ## My Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a2nd2VSV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/nife-codes) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hephzibbahmorayo@gmail.com)
 
